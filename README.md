@@ -1,5 +1,5 @@
 Topics:
-1.Edge preserving smoothing Filters1
+1.Edge preserving smoothing Filters
 2.Image Restoration
 3.Unitary Transform
 
